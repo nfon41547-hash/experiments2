@@ -1006,5 +1006,14 @@
         "sympy__sympy-16597",
         "sympy__sympy-17630",
         "sympy__sympy-18199"
-    ]
+    ],
+    "20261011_Agentless_Qwen-3.5-35B-Ternary-Fiber": {
+        "name": "Agentless + Qwen-3.5-35B-Ternary-Fiber",
+        "folder": "20261011_Agentless_Qwen-3.5-35B-Ternary-Fiber",
+        "date": "2026-10-11",
+        "resolved": 255,
+        "total": 481,
+        "rate": 53.01,
+        "site": "https://www.kaggle.com/models/bang1850/qwen-35b-undersea-fiber-moe-ternary"
+    }
 }
