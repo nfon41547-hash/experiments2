@@ -1011,9 +1011,9 @@
         "name": "Agentless + Qwen-3.5-35B-Ternary-Fiber",
         "folder": "20261011_Agentless_Qwen-3.5-35B-Ternary-Fiber",
         "date": "2026-10-11",
-        "resolved": 255,
-        "total": 481,
-        "rate": 53.01,
+        "resolved": 223,
+        "total": 500,
+        "rate": 44.6,
         "site": "https://www.kaggle.com/models/bang1850/qwen-35b-undersea-fiber-moe-ternary"
     }
 }
